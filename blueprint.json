@@ -1,7 +1,7 @@
 {
 	"about": {
 		"title": "enginesd_debian_base",
-		"explanation": "Docker Base for debian images"
+		"explanation": "Docker Base for debian images MARK WAS HERE"
 	},
 	"configuration": {
 		"timezone": "^^system_config.default_timezone^^"
